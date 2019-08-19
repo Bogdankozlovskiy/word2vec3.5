@@ -1,0 +1,2 @@
+# word2vec3.5
+# you have to download file by link https://drive.google.com/open?id=1KBcgj2J8SwKPtS7vg5-5j6a6KVMVyz7Z
