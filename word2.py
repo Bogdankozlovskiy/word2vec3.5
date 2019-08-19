@@ -13,7 +13,6 @@ while True:
 	else:
 		out = model.wv.most_similar(negative=negative)
 
-	out = model.wv.most_similar(positive=['любовь', "мир"])
 	
 	for o in out:
 		print(o[0])
